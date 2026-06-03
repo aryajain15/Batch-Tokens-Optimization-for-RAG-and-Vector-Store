@@ -1,0 +1,8 @@
+pypdf
+sentence-transformers
+transformers
+chromadb
+pandas
+numpy
+matplotlib
+torch
